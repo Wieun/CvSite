@@ -36,10 +36,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Eric C Chiruka</title>
-  <link rel="icon" href="assets/HiFavicon.ico">
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.css'>
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -65,13 +63,10 @@
         <a href="#thirdSection" title="Flutter">Flutter</a>
       </li>
       <li data-menuanchor="fourthSection">
-        <a href="#fourthSection" title="Bash">Configs</a>
+        <a href="#fourthSection" title="Bash">Bash</a>
       </li>
       <li data-menuanchor="fifthSection">
-        <a href="#fifthSection" title="Configs">Find me</a>
-      </li>
-      <li data-menuanchor="fifthSection">
-        <a href="assets/eric_chiruka.pdf" title="Cv">CV</a>
+        <a href="#fifthSection" title="Configs">Configs</a>
       </li>
     </ul>
   </nav>
@@ -85,80 +80,72 @@
     <div class="section" id="section1">
       <div class="slide" id="slide1" data-anchor="slide1">
         <div class="intro">
-          <h2>C++ Opengl particle collision detection with spacial partitioning</h2>
-          <a href="https://github.com/Wieun/USW/tree/master/ParticleCollision">
-            <video class="screenshot" loop autoplay>
-              <source src="assets/pd.mp4" type="video/mp4">
-            </video>
-          </a>
+          <video class="screenshot" loop autoplay>
+            <source src="assets/pd.mp4" type="video/mp4">
+          </video>
         </div>
       </div>
       <div class="slide" id="slide2" data-anchor="slide2">
-        <h2>C++ Arduino nano maze follower robot</h2>
-        <a href="https://github.com/Wieun/USW/tree/master/MazeFollowerArduino">
-          <video class="screenshot" loop autoplay>
-            <source src="assets/arduino-nano.mp4" type="video/mp4">
-          </video>
-        </a>
+        <video class="screenshot" loop autoplay>
+          <source src="assets/arduino-nano.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 3</h1>
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 4</h1>
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 5</h1>
       </div>
     </div>
   </section>
   <section class="vertical-scrolling">
     <div class="section" id="section1">
       <div class="slide" id="slide1" data-anchor="slide1">
-        <h2>Currently learning flutter: 8 ball flutter app</h2>
-        <a href="https://github.com/Wieun/Learning-Flutter/tree/master/magic-8-ball-flutter">
-          <video class="screenshot" loop autoplay>
-            <source src="assets/8ball.mp4" type="video/mp4">
-          </video>
-        </a>
+        <video class="screenshot" loop autoplay>
+          <source src="assets/8ball.mp4" type="video/mp4">
+        </video>
       </div>
       <div class="slide" id="slide2" data-anchor="slide2">
-        <h2>Learning flutter series: Business card flutter app</h2>
-        <a href="https://github.com/Wieun/Learning-Flutter/tree/master/mi_card_flutter">
-          <img class="screenshot" src="assets/miCard.jpg" alt="Business card app">
-        </a>
+        <img class="screenshot" src="assets/miCard.jpg" alt="miCard app">
       </div>
       <div class="slide" id="slide3" data-anchor="slide3">
-        <h2>Learning flutter series: Dice flutter app</h2>
-        <a href="https://github.com/Wieun/Learning-Flutter/tree/master/dicee-flutter">
-          <video class="screenshot" loop autoplay>
-            <source src="assets/dicee.mp4" type="video/mp4">
-          </video>
-        </a>
+        <video class="screenshot" loop autoplay>
+          <source src="assets/dicee.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 4</h1>
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 5</h1>
       </div>
     </div>
+  </section>
+  <section class="vertical-scrolling">
+    <h2>#4</h2> 
+    <h3>This is the fourth section</h3>
   </section>
   <section class="vertical-scrolling">
     <div class="section" id="section1">
       <div class="slide" id="slide1" data-anchor="slide1">
-        <h2>Vim config</h2>
-        <a href="https://github.com/Wieun/Dotfiles/blob/master/.vimrc">
-          <img class="screenshot" src="assets/vim-screenshot.png" alt="Vim config">
-        </a>
+        <img class="screenshot" src="assets/vim-screenshot.png" alt="Vim config"
       </div>
       <div class="slide" id="slide2" data-anchor="slide2">
-        <h2>AwesomeWM Config</h2>
-        <a href="https://github.com/Wieun/Dotfiles/tree/master/awesome">
-          <img class="screenshot" src="assets/awesome.png" alt="AwesomeWM config">
-        </a>
+        <img class="screenshot" src="assets/awesome.png" alt="AwesomeWM config">
       </div>
       <div class="slide" id="slide3" data-anchor="slide3">
-        <h2>Emacs Config</h2>
-        <a href="https://github.com/Wieun/Dotfiles/blob/master/.emacs">
-          <img class="screenshot" src="assets/emacs.png" alt="Emacs config">
-        </a>
+        <img class="screenshot" src="assets/emacs.png" alt="Emacs config">
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 4</h1>
+      </div>
+      <div class="slide" id="slide3" data-anchor="slide3">
+        <h1>Slide 5</h1>
       </div>
     </div>
-  </section>
-  <section class="vertical-scrolling">
-    <a href="https://www.linkedin.com/in/eric-chiruka-464414134/">
-      <i class="fab fa-linkedin fa-5x"></i>
-    </a>
-    <a href="https://github.com/Wieun">
-      <i class="fab fa-github fa-5x"></i>
-    </a>
-    <p>Eric C Chiruka</p>
   </section>
 </div>
 
